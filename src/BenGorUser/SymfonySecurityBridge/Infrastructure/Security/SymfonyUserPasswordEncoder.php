@@ -12,8 +12,8 @@
 
 namespace BenGorUser\SymfonySecurityBridge\Infrastructure\Security;
 
-use BenGor\User\Domain\Model\UserPassword;
-use BenGor\User\Domain\Model\UserPasswordEncoder;
+use BenGorUser\User\Domain\Model\UserPassword;
+use BenGorUser\User\Domain\Model\UserPasswordEncoder;
 use Symfony\Component\Security\Core\Encoder\PasswordEncoderInterface;
 
 /**

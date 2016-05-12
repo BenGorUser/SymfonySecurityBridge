@@ -3,9 +3,9 @@
 
 [![Build Status](https://travis-ci.org/BenGorUser/SymfonySecurityBridge.svg?branch=master)](https://travis-ci.org/BenGorUser/SymfonySecurityBridge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/BenGorUser/SymfonySecurityBridge/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/BenGorUser/SymfonySecurityBridge/?branch=master)
-[![Total Downloads](https://poser.pugx.org/bengoruser/symfony-security-bridge/downloads)](https://packagist.org/packages/bengoruser/symfony-security-bridge/)
-[![Latest Stable Version](https://poser.pugx.org/bengoruser/symfony-security-bridge//v/stable.svg)](https://packagist.org/packages/bengoruser/symfony-security-bridge/)
-[![Latest Unstable Version](https://poser.pugx.org/bengoruser/symfony-security-bridge//v/unstable.svg)](https://packagist.org/packages/bengoruser/symfony-security-bridge/)
+[![Total Downloads](https://poser.pugx.org/bengor-user/symfony-security-bridge/downloads)](https://packagist.org/packages/bengor-user/symfony-security-bridge/)
+[![Latest Stable Version](https://poser.pugx.org/bengor-user/symfony-security-bridge//v/stable.svg)](https://packagist.org/packages/bengor-user/symfony-security-bridge/)
+[![Latest Unstable Version](https://poser.pugx.org/bengor-user/symfony-security-bridge//v/unstable.svg)](https://packagist.org/packages/bengor-user/symfony-security-bridge/)
 
 ##Requirements
 PHP >= 5.5
@@ -13,7 +13,7 @@ PHP >= 5.5
 ##Installation
 The easiest way to install this component is using [Composer][6]
 ```bash
-$ composer require bengoruser/symfony-security-bridge
+$ composer require bengor-user/symfony-security-bridge
 ```
 
 ##Documentation
@@ -52,7 +52,7 @@ This library is created by:
 **@gorkalaucirica** - [gorka.lauzirika@gmail.com](mailto:gorka.lauzirika@gmail.com)
 
 ##Licensing Options
-[![License](https://poser.pugx.org/bengoruser/symfony-security-bridge//license.svg)](https://github.com/BenGorUser/SymfonySecurityBridge/blob/master/LICENSE)
+[![License](https://poser.pugx.org/bengor-user/symfony-security-bridge//license.svg)](https://github.com/BenGorUser/SymfonySecurityBridge/blob/master/LICENSE)
 
 [1]: http://www.phpspec.net/
 [2]: http://symfony.com/doc/current/contributing/code/index.html
