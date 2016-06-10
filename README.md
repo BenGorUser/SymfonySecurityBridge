@@ -4,8 +4,8 @@
 [![Build Status](https://travis-ci.org/BenGorUser/SymfonySecurityBridge.svg?branch=master)](https://travis-ci.org/BenGorUser/SymfonySecurityBridge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/BenGorUser/SymfonySecurityBridge/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/BenGorUser/SymfonySecurityBridge/?branch=master)
 [![Total Downloads](https://poser.pugx.org/bengor-user/symfony-security-bridge/downloads)](https://packagist.org/packages/bengor-user/symfony-security-bridge/)
-[![Latest Stable Version](https://poser.pugx.org/bengor-user/symfony-security-bridge//v/stable.svg)](https://packagist.org/packages/bengor-user/symfony-security-bridge/)
-[![Latest Unstable Version](https://poser.pugx.org/bengor-user/symfony-security-bridge//v/unstable.svg)](https://packagist.org/packages/bengor-user/symfony-security-bridge/)
+[![Latest Stable Version](https://poser.pugx.org/bengor-user/symfony-security-bridge/v/stable.svg)](https://packagist.org/packages/bengor-user/symfony-security-bridge/)
+[![Latest Unstable Version](https://poser.pugx.org/bengor-user/symfony-security-bridge/v/unstable.svg)](https://packagist.org/packages/bengor-user/symfony-security-bridge/)
 
 ##Requirements
 PHP >= 5.5
@@ -17,9 +17,7 @@ $ composer require bengor-user/symfony-security-bridge
 ```
 
 ##Documentation
-All the documentation is stored in the `docs` folder.
-
-[Show me the docs!](docs/index.md)
+All the documentation is stored inside the [user library](https://github.com/BenGorUser/User/blob/master/docs/index.md).
 
 ##Tests
 This library is completely tested by **[PHPSpec][1], SpecBDD framework for PHP**.
@@ -30,6 +28,10 @@ $ vendor/bin/phpspec run -fpretty
 ```
 
 ##Contributing
+If you have any doubt or maybe you want to share some opinion, you can use our **Gitter** chat.
+
+[![Join the chat at https://gitter.im/BenGorUser/User](https://badges.gitter.im/BenGorUser/User.svg)](https://gitter.im/BenGorUser/User?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This library follows PHP coding standards, so pull requests need to execute the Fabien Potencier's [PHP-CS-Fixer][5].
 Furthermore, if the PR creates some not-PHP file remember that you have to put the license header manually. In order
 to simplify we provide a Composer script that wraps all the commands related with this process.
@@ -52,7 +54,7 @@ This library is created by:
 **@gorkalaucirica** - [gorka.lauzirika@gmail.com](mailto:gorka.lauzirika@gmail.com)
 
 ##Licensing Options
-[![License](https://poser.pugx.org/bengor-user/symfony-security-bridge//license.svg)](https://github.com/BenGorUser/SymfonySecurityBridge/blob/master/LICENSE)
+[![License](https://poser.pugx.org/bengor-user/symfony-security-bridge/license.svg)](https://github.com/BenGorUser/SymfonySecurityBridge/blob/master/LICENSE)
 
 [1]: http://www.phpspec.net/
 [2]: http://symfony.com/doc/current/contributing/code/index.html
